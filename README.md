@@ -16,6 +16,7 @@ A simple terminal-based currency converter that allows users to perform live cur
 ## Setup
 
 1. Clone this repository or download the files.
+   git clone https://github.com/pranav824/currency_converter_scripting.git 
 2. Create a virtual environment (optional but recommended):
 
    ```bash
